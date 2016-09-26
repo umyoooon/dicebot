@@ -1,0 +1,2 @@
+# dicebot
+dicebot for slack
